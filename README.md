@@ -1,15 +1,15 @@
-stdtoqr
+intoq
 =======
 
 # Install
 
 ```
-go get github.com/qbit/stdtoqr
+go get github.com/qbit/intoq
 ```
 
 # Usage
 
 ```
-echo "Hi" | stdtoqr
+echo "Hi" | intoq
 feh qr.png
 ```
