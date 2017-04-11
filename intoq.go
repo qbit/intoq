@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/rsc/rsc/qr"
+	"rsc.io/qr"
 )
 
 func main() {
